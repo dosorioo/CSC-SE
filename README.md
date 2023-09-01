@@ -1,1 +1,2 @@
-# CSC-SE
+# Attend In
+Dulce Osorio
